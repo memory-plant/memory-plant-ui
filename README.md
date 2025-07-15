@@ -1,7 +1,9 @@
 # Memory Plant 🏭📝
 
-We created **Memory Plant**, an AI-powered journaling app that helps users organize their personal stories from diary entries.  
-Users keep their “Memory Plant” factory running by writing daily journals, while the AI “Memory Curator” summarizes entries and serves as a conversational partner.  
+We created **Memory Plant**, an AI-powered journaling app that helps users organize their personal stories from diary entries!
+
+Users keep their “Memory Plant” factory running by writing daily journals, while the AI “Memory Curator” summarizes entries and serves as a conversational partner.
+
 Each month, the app generates a personalized summary scrapbook and offers tailored suggestions based on users’ recorded memories.
 
 ## Screenshots
