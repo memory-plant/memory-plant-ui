@@ -19,9 +19,9 @@ Each month, the app generates a personalized summary scrapbook and offers tailor
 
 ## Project Structure
 lib/
-├── screens/      # Contains UI for each major screen such as login, home, and settings
-├── widgets/      # Includes reusable UI elements like buttons, cards, and lists
-└── styles/       # Manages design-related settings like colors, themes
+-screens/      # Contains UI for each major screen such as login, home, and settings
+-widgets/      # Includes reusable UI elements like buttons, cards, and lists
+-styles/       # Manages design-related settings like colors, themes
 
 ## Getting Started
 You can download the app here:
