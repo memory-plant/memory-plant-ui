@@ -4,6 +4,15 @@ I created **Memory Plant**, an AI-powered journaling app that helps users organi
 Users keep their “Memory Plant” factory running by writing daily journals, while the AI “Memory Curator” summarizes entries and serves as a conversational partner.  
 Each month, the app generates a personalized summary scrapbook and offers tailored suggestions based on users’ recorded memories.
 
+## Screenshots
+
+![iPhone 1](images/iphone1.png)  
+![iPhone 2](images/iphone2.png)  
+![iPhone 3](images/iphone3.png)  
+![iPhone 4](images/iphone4.png)  
+![iPhone 5](images/iphone5.png)
+
+
 ## Key Features
 - Email/password authentication  
 - Google and Apple Sign-In support for easy and secure login  
