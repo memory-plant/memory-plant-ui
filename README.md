@@ -7,11 +7,10 @@ Each month, the app generates a personalized summary scrapbook and offers tailor
 ## Screenshots
 
 <p align="center">
-  <img src="images/iphone1.png" width="200"/>
-  <img src="images/iphone2.png" width="200"/>
-  <img src="images/iphone3.png" width="200"/>
-  <img src="images/iphone4.png" width="200"/>
-  <img src="images/iphone5.png" width="200"/>
+  <img src="images/iphone1.png" height="400"/>
+  <img src="images/iphone2.png" height="400"/>
+  <img src="images/iphone3.png" height="400"/>
+  <img src="images/iphone4.png" height="400"/>
 </p>
 
 
