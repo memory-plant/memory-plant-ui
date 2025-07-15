@@ -21,7 +21,8 @@ Each month, the app generates a personalized summary scrapbook and offers tailor
 - Email/password authentication  
 - Google and Apple Sign-In support for easy and secure login  
 - Light and Dark mode support for comfortable viewing  
-- Bilingual support: English and Korean  
+- Bilingual support: English and Korean
+- Restricted to data and Wi-Fi connections for secure access
 - AI-powered journaling using Cohere language model integration
 
 ## Tech Stack
