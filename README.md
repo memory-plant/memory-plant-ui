@@ -6,11 +6,17 @@ Each month, the app generates a personalized summary scrapbook and offers tailor
 
 ## Screenshots
 
-![iPhone 1](images/iphone1.png)  
-![iPhone 2](images/iphone2.png)  
-![iPhone 3](images/iphone3.png)  
-![iPhone 4](images/iphone4.png)  
-![iPhone 5](images/iphone5.png)
+<p align="center">
+  <img src="images/iphone1.png" width="200"/>
+  <img src="images/iphone2.png" width="200"/>
+  <img src="images/iphone3.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/iphone4.png" width="200"/>
+  <img src="images/iphone5.png" width="200"/>
+</p>
+
 
 
 ## Key Features
