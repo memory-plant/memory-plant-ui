@@ -41,6 +41,6 @@ lib/
 ## Getting Started
 You can download the app here:
 [Google Play Store](https://play.google.com/store/apps/details?id=com.minwoos22.memoryplantapplication&pcampaignid=web_share)
-[Apple App Store](https://lnkd.in/ehTyaRcu)
+[Apple App Store](https://apps.apple.com/kr/app/%EA%B8%B0%EC%96%B5%EB%B0%9C%EC%A0%84%EC%86%8C/id6740918486)
 
 This project is the collective creation of our team. Unauthorized use or reproduction is prohibited without prior permission. Please reach out to us for any inquiries.
